@@ -1,3 +1,7 @@
+/*This progarma is developed by Bashar
+ This program demontrate inheritence*/
+
+
 class G 
 {
     G()
